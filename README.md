@@ -76,7 +76,9 @@ URL rewriting is handled by the `.htaccess` file. The following routes are avail
 - **For production:** Always use HTTPS, implement CSRF protection, and further harden your code.
 
 ## Screenshots
-_Add screenshots of the login, registration, and admin pages here if desired._
+![image](https://github.com/user-attachments/assets/3dc1dfd0-993d-439d-9fc5-cbcc1960f792)
+![image](https://github.com/user-attachments/assets/ea3e9f16-6c3f-4e69-991e-980f7beb0069)
+![image](https://github.com/user-attachments/assets/7bb50639-582b-41fc-be16-5c7a2412039c)
 
 ## License
 This project is intended for educational purposes. You are free to use and modify it as needed.
