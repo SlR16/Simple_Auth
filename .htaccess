@@ -1,0 +1,13 @@
+RewriteEngine On
+
+# Route /login to src/page/login.php
+RewriteRule ^login$ src/page/login.php [L]
+
+# Route /register to src/page/register.php
+RewriteRule ^register$ src/page/register.php [L]
+
+# Route /logout to src/page/logout.php
+RewriteRule ^logout$ src/page/logout.php [L]
+
+# Route /admin to src/page/admin.php
+RewriteRule ^admin$ src/page/admin.php [L]
