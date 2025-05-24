@@ -1,4 +1,4 @@
-# Project Title: Test Site
+# Project Title: Simple Auth
 
 ## Description
 This project is a simple user authentication system built with PHP and MySQL. It allows users to register, log in, and log out, validating their credentials against a database. The project demonstrates basic authentication, session management, and access control for protected pages.
